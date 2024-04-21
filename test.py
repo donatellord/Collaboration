@@ -10,3 +10,5 @@ print("")
 
 print("حبيبي يا نور العين")
 print("kill mee")
+
+print("hyda danas sebbat")
