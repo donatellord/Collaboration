@@ -9,3 +9,4 @@ print("")
 
 
 print("حبيبي يا نور العين")
+print("kill me")
